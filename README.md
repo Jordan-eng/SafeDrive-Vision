@@ -5,6 +5,8 @@ Un système en temps réel qui détecte les yeux fermés via webcam (MediaPipe) 
 
 **Utilité:** Alarme pour prévenir la fatigue oculaire, détecter les somnolences au volant, surveillance d'attention, etc.
 
+<img width="848" height="724" alt="image" src="https://github.com/user-attachments/assets/4fb3e0d8-2196-441b-a718-3efa098259b5" />
+
 ---
 
 ## 📋 Prérequis
