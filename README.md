@@ -244,6 +244,8 @@ Libre d'utilisation et de modification.
 
 ## 💡 Tips
 
+
+
 - **Améliora la précision:** Utilisez un bon éclairage frontal
 - **Performance:** Diminuez la résolution vidéo (320x240) si lent
 - **Fiabilité:** Testez plusieurs personnes et angles de vue
@@ -254,5 +256,10 @@ Libre d'utilisation et de modification.
 **Besoin d'aide?** Consultez les logs en activant `DEBUG_MODE = True` dans config.py
 
 ---
+
+https://github.com/user-attachments/assets/a78bd5be-68f5-4e50-940c-35295b4864f0
+
+
+
 
 *Créé pour les projets Python + Arduino avec MediaPipe*
